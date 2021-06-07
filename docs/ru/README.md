@@ -4,6 +4,8 @@
 
 - [Flarum (RUS)](/storage/flarum.rus.tar.xz)
 
+*Посмотреть все архивы и дату их создания можно [здесь](https://github.com/flarum-download/flarum-download.github.io/tree/main/docs/storage).*
+
 ## Системные требования
 
 - Apache (с включённым модулем `mod_rewrite`) или Nginx.
