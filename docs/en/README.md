@@ -1,6 +1,6 @@
 ## Download
 
-Flarum installation package with **English language pack**.
+**Flarum** installation package with integrated **English language pack**.
 
 - [Flarum (ENG)](https://github.com/flarum-download/storage/raw/main/flarum.eng.tar.xz)
 

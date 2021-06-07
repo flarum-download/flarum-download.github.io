@@ -1,6 +1,6 @@
 ## Скачивание
 
-Установочный пакет Flarum с **русским языковым пакетом**.
+Установочный пакет **Flarum** с интегрированным **русским языковым пакетом**.
 
 - [Flarum (RUS)](https://github.com/flarum-download/storage/raw/main/flarum.rus.tar.xz)
 
