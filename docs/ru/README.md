@@ -1,12 +1,6 @@
-## Без Composer
+На данный момент, Flarum не имеет своей системы автоматической установки. Flarum использует инструмент [**Composer**](https://getcomposer.org/), который управляет пакетами Flarum и позволяет обновлять ядро и устанавливать / удалять расширения.
 
-## Скачивание
-
-Установочный пакет **Flarum** с интегрированным **русским языковым пакетом**.
-
-- [Flarum (RUS)](https://github.com/flarum-download/storage/raw/main/flarum.rus.tar.xz)
-
-*Посмотреть все архивы и дату их создания можно [здесь](https://github.com/flarum-download/storage).*
+На этой странице описаны два варианта установки Flarum: при участии Composer и без Composer.
 
 ## Системные требования
 
@@ -24,13 +18,31 @@
 - MySQL 5.6+ или MariaDB 10.0.5+.
 - SSH (command-line) для запуска **Composer**.
 
-## Установка
+## Без Composer
+
+### Скачивание
+
+Установочный пакет **Flarum** с интегрированным **русским языковым пакетом**.
+
+- [Flarum (RUS)](https://github.com/flarum-download/storage/raw/main/flarum.rus.tar.xz)
+
+*Посмотреть все архивы и дату их создания можно [здесь](https://github.com/flarum-download/storage).*
+
+### Установка
+
+### Обновление
+
+## При помощи Composer
+
+### Скачивание
 
 ```
 composer create-project flarum/flarum .
 ```
 
-## Обновление
+### Установка
+
+### Обновление
 
 ```
 composer update --prefer-dist --no-plugins --no-dev -a --with-all-dependencies
