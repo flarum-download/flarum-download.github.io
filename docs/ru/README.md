@@ -2,9 +2,9 @@
 
 Установочный пакет Flarum с **русским языковым пакетом**.
 
-- [Flarum (RUS)](/storage/flarum.rus.tar.xz)
+- [Flarum (RUS)](https://github.com/flarum-download/storage/raw/main/flarum.rus.tar.xz)
 
-*Посмотреть все архивы и дату их создания можно [здесь](https://github.com/flarum-download/flarum-download.github.io/tree/main/docs/storage).*
+*Посмотреть все архивы и дату их создания можно [здесь](https://github.com/flarum-download/storage).*
 
 ## Системные требования
 

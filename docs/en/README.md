@@ -2,9 +2,9 @@
 
 Flarum installation package with **English language pack**.
 
-- [Flarum (ENG)](/storage/flarum.eng.tar.xz)
+- [Flarum (ENG)](https://github.com/flarum-download/storage/raw/main/flarum.eng.tar.xz)
 
-*View all of the files and the date of their creation [here](https://github.com/flarum-download/flarum-download.github.io/tree/main/docs/storage).*
+*View all of the files and the date of their creation [here](https://github.com/flarum-download/storage).*
 
 ## Server Requirements
 
