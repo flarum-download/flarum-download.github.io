@@ -1,5 +1,9 @@
 ## Download
 
+Flarum installation package with **English language pack**.
+
+- [Flarum (ENG)](/storage/flarum.eng.tar.xz)
+
 ## Server Requirements
 
 - Apache (with `mod_rewrite` enabled) or Nginx.
