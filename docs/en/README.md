@@ -1,5 +1,21 @@
 ## Download
 
+## Server Requirements
+
+- Apache (with `mod_rewrite` enabled) or Nginx.
+- PHP 7.3+ with the following extensions: 
+  - `curl`
+  - `dom`
+  - `gd`
+  - `json`
+  - `mbstring`
+  - `openssl`
+  - `pdo_mysql`
+  - `tokenizer`
+  - `zip`
+- MySQL 5.6+ or MariaDB 10.0.5+.
+- SSH (command-line) access to run **Composer**.
+
 ## Install
 
 ```
